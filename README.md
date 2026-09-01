@@ -20,7 +20,7 @@ This module connects farmers directly with buyers by forecasting agricultural co
 
 ### Model Choice
 - **Lightweight Forecasting**: Uses exponential smoothing with moving averages instead of Prophet due to disk space constraints
-- **Fallback Approach**: Still effective for hackathon demo purposes
+
 
 ## 📁 Project Structure
 
